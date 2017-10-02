@@ -1,0 +1,52 @@
+body {
+  font-family: 'Comic Sans MS';
+  background-color: #D36BC2;
+}
+
+.container-fluid {
+  width: 100%;
+  color: #F9EBE0;
+  background-color: #D36BC2;
+  padding: 40px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+#city {
+  margin: 50px auto auto auto;
+  font-size: 20px;
+}
+
+#weatherType {
+  text-transform: capitalize;
+}
+
+#fTemp {
+  margin: 10px 10px 10px 10px;
+  font-size: 1.8em;
+}
+
+.misc {
+  margin: 20px auto auto auto;
+}
+
+.footer {
+  width: 450px;
+  text-align: center;
+  display: block;
+  margin: 100px auto 30px auto;
+  font-size: 1.0em;
+  color: #fff;
+  a {
+    font-weight: 500;
+    text-decoration: none;
+  }
+}
